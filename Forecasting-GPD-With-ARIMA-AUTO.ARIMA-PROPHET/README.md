@@ -6,7 +6,7 @@ this project has the focus to estimate the price of the gas leakge detection
 
 **About the files:**
 
-- Forecasting-GPD.ipynb -> Analyses and codes of all data
+- Forecast with Arima, Auto-Arima, Prophet.ipynb -> Analyses and codes of all data
 
 - base.csv -> Database original
 
