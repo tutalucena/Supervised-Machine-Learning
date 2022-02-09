@@ -10,6 +10,4 @@ this project has the focus to estimate the price of the gas leakge detection
 
 - GDP database.csv -> Database original
 
-- 
-
-- DESCRICAO DA BASE DE DADOS - _Ames Housing Dataset_.pdf -> Table "base" description of features
+- Prediction Sales.csv -> Database created from the code with the predictions
